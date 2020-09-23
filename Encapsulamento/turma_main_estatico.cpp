@@ -1,6 +1,6 @@
 #include <iostream>
-#include "turma_construtor.hpp"
-#include "aluno_construtor.hpp"
+#include "turma_statico.hpp"
+#include "aluno_statico.hpp"
 
 int main(){
 

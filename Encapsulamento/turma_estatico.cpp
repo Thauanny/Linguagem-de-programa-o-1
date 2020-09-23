@@ -1,5 +1,5 @@
 #include <iostream>
-#include "turma_construtor.hpp"
+#include "turma_statico.hpp"
 
 
 using namespace std;
