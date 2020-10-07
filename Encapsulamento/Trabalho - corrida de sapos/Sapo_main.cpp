@@ -55,6 +55,7 @@ int main(){
 
 	delete sapo1;
 	delete sapo2;
+	delete sapo3;
 
 	return 0;
 }
